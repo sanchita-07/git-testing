@@ -1,2 +1,2 @@
 # git-testing
-sanchita
+This a repository for expertimenting git and github.
